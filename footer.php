@@ -1,0 +1,1 @@
+<a href="index.php" class="text-decoration-none text-dark"><p class="text-center mt-3" >&copy; <?php echo date("Y");?> : Store Management System </p></a>
